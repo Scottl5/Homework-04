@@ -1,0 +1,23 @@
+#question{
+   text-align: center;
+}
+
+#answer-container{
+    position:absolute;
+    left: 50%;
+  
+}
+
+.btn{
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0px;
+}
+
+.btn.hidden{
+    display: none;
+}
+
+.hidden{
+     display: none;
+}
